@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Carolyn Edds carolyn.edds@gmail.com
 
 # THANKS
 
