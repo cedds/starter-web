@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<!--
+Add copyright notice
+-->
+<head>
+	<title>An example website</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+<<<<<<< HEAD
+			Other content goes here
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Company Name 2014</p>
+=======
+			Interesting stuff goes here
+	</main>
+	<footer class="container">
+		<p>&copy; Name of Company 2014</p>
+>>>>>>> realwork
+	</footer>
+</body>
+</html>
