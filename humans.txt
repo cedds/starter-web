@@ -8,6 +8,7 @@
 # THANKS
 
     Thanks to the teacher. 
+	Some more text for tutorial 
 
 # TECHNOLOGY COLOPHON
 
